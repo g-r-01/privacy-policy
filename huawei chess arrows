@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Chess Arrows Privacy Policy (Huawei AppGallery)</title>
+  <style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+
+ul.task-list[class]{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+font-size: inherit;
+width: 0.8em;
+margin: 0 0.8em 0.2em -1.6em;
+vertical-align: middle;
+}
+.display.math{display: block; text-align: center; margin: 0.5rem auto;}
+</style>
+  <style type="text/css">body{font-family:-apple-system,Segoe UI,Roboto,Arial,sans-serif;max-width:760px;margin:0 auto;padding:24px 16px 64px;line-height:1.6;color:#1f2328;background:#fff}
+h1{font-size:1.8rem}h2{font-size:1.25rem;margin-top:2rem}h3{font-size:1.05rem}
+table{border-collapse:collapse;width:100%}td,th{border:1px solid #d0d7de;padding:8px;text-align:left;vertical-align:top}
+a{color:#0b57d0}code{background:#f3f4f6;padding:1px 4px;border-radius:4px}
+@media(prefers-color-scheme:dark){body{background:#0f1115;color:#e6e6e6}td,th{border-color:#3a3f47}a{color:#8ab4f8}code{background:#1c2026}}
+</style>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<h1 id="privacy-policy-for-chess-arrows">Privacy Policy for Chess Arrows</h1>
+<p><strong>Last updated:</strong> 20/10/2026</p>
+<p>Chess Arrows (&ldquo;the app&rdquo;, &ldquo;we&rdquo;) is an Android app that lets you draw
+arrows on top of other apps, for example to plan or explain chess moves.
+It is published by <strong>Geo Rao</strong> (&ldquo;the developer&rdquo;). This policy applies to the
+version distributed through <strong>Huawei AppGallery</strong> and explains, in plain words,
+what the app does with information.</p>
+<p><strong>Contact:</strong> geo.rao.00007@gmail.com</p>
+<h2>1. The short version</h2>
+<ul>
+<li>The app only draws arrows. It <strong>cannot see, read or record your screen</strong>,
+and it does not read what is in the apps underneath it.</li>
+<li>We do not ask you to create an account, and we do not ask for your name, email,
+phone number, location or contact list.</li>
+<li>Your settings stay on your device.</li>
+<li>This version of the app <strong>does not show ads</strong> and does not use any
+advertising service or advertising identifier.</li>
+<li>To adjust some app settings remotely, the app uses Firebase Remote Config from Google,
+which receives limited technical information described in section 4.</li>
+</ul>
+<h2>2. Permissions the app uses</h2>
+<table>
+<colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup>
+<thead><tr class="header"><th>Permission</th><th>Why</th></tr></thead>
+<tbody>
+<tr class="odd"><td>Display over other apps (<code>SYSTEM_ALERT_WINDOW</code>)</td>
+<td>To draw the floating pencil, the arrows and the optional board grid on top of other
+apps. This is the core feature of the app and the permission is used for nothing else. You
+grant it yourself in system settings and can revoke it at any time.</td></tr>
+<tr class="even"><td>Foreground service</td>
+<td>To keep the overlay running while you use other apps. A notification is shown while it
+runs, with Clear and Stop buttons.</td></tr>
+<tr class="odd"><td>Notifications</td>
+<td>To show that notification (Android 13 and later).</td></tr>
+<tr class="even"><td>Internet</td>
+<td>To load the remote settings described below.</td></tr>
+</tbody>
+</table>
+<p>The app does not use the camera, microphone, location, contacts, storage, accessibility
+services or screen-recording (screen capture) features.</p>
+<h2>3. Information stored on your device</h2>
+<p>The app saves the following <strong>only on your device</strong>. We never receive it.</p>
+<ul>
+<li>your arrow style (color, thickness, opacity) and the position of the floating buttons;</li>
+<li>the mode you chose (Default or Advanced) and, for Advanced mode, the position and size
+of the 8&times;8 board grid you placed, saved separately for portrait and landscape;</li>
+<li>your language choice and whether you have finished the introduction;</li>
+<li>a counter of how many times the app was opened.</li>
+</ul>
+<p>The arrows you draw exist only on the screen while the overlay is on. They are not saved
+or sent anywhere. Uninstalling the app removes all of this.</p>
+<h2>4. Third-party services</h2>
+<h3>Firebase Remote Config and Firebase Installations (remote settings)</h3>
+<p>Used to switch app features on or off without releasing a new version. According to
+Google, Remote Config receives your country code, language code, time zone, OS version, the
+app ID and package name, and the SDK version, together with your IP address as part of the
+network request; Firebase Installations creates a random per-installation identifier. This
+does not identify you personally and is not used for advertising. The data is sent to
+Google, which may process it outside your country. More:
+<a href="https://firebase.google.com/support/privacy" class="uri">https://firebase.google.com/support/privacy</a></p>
+<p>We do not sell your personal data, and we do not receive any data that identifies you.</p>
+<h2>5. How information is used, and our legal basis</h2>
+<p>We use this information only to provide the app and keep it working. Where the law of
+your country requires a legal basis (for example the GDPR in the EU and UK), this relies on
+our <strong>legitimate interest</strong> in providing a working app.</p>
+<h2>6. Your choices and rights</h2>
+<ul>
+<li><strong>Device data:</strong> you can clear the app&rsquo;s saved settings in Android:
+<em>Settings &rarr; Apps &rarr; Chess Arrows &rarr; Storage &rarr; Clear data</em>, or by
+uninstalling.</li>
+<li><strong>Permission:</strong> you can remove the Display over other apps permission at
+any time in Android settings; the overlay will then stop working.</li>
+<li><strong>Rights:</strong> depending on where you live, you may have rights to access,
+correct, delete or restrict the use of personal data, to object to its use, and to complain
+to a data-protection authority. Since we hold no account or personal profile about you,
+there is generally nothing we can look up; the configuration provider above holds the
+limited data it receives. You can also write to us at the contact email above.</li>
+</ul>
+<h2>7. Children</h2>
+<p>The app is not directed to children under 13 (or under 16 where that is the local age of
+digital consent), and we do not knowingly collect personal information from them. If you
+believe a child has provided data, contact us and we will help.</p>
+<h2>8. Retention and security</h2>
+<p>We keep no personal data of our own. Data held by the service provider is kept under its
+policy and is encrypted in transit. Settings on your device are protected by Android&rsquo;s
+app sandbox.</p>
+<h2>9. International transfers</h2>
+<p>Google may process the data described in section 4 in countries other than your own,
+under its own safeguards.</p>
+<h2>10. Changes to this policy</h2>
+<p>If we change how the app uses information, for example by adding advertising to this
+version, we will update this page and the date at the top before the change takes effect,
+and update the AppGallery listing.</p>
+<h2>11. Contact</h2>
+<p>Questions about this policy: <strong>[YOUR CONTACT EMAIL]</strong></p>
+<p>Chess Arrows is an independent app and is not affiliated with, endorsed by or sponsored by
+any chess platform or app.</p>
+</body>
+</html>
