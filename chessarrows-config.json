@@ -1,0 +1,6 @@
+{
+  "ad_enabled_open_app": false,
+  "ad_enabled_banner": false,
+  "enable_interstitial_ad_count": 3,
+  "enable_in_app_review": true
+}
